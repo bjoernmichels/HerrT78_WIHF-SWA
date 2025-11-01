@@ -9,6 +9,7 @@ Die Architekturdokumentation basiert auf dem Template von arc42[^1].
 ## Funktionale Anforderungen
 
 *Hier kommt das Use Case Diagramm mit Kurzbeschreibung hin*
+
 Kurzbeschreibung:
 | Element | Beschreibung |
 | --- | --- |
@@ -20,7 +21,7 @@ Kurzbeschreibung:
 
 # Kontext & Abgrenzung
 
-[KontextDiagramm](
+![KontextDiagramm](/Testbereiter_Klassendiagramm.drawio.png)
 Kurzbeschreibung:
 | Element | Beschreibung |
 | --- | --- |
@@ -40,7 +41,7 @@ Kurzbeschreibung:
 
 # Verteilungssicht
 
-*Verteilungsdiagramm*
+![Verteilungsdiagramm](testbereiter_verteilungsdiagramm.drawio.png)
 Kurzbeschreibung:
 | Element | Beschreibung |
 | --- | --- |
